@@ -1,4 +1,4 @@
 # hello-world
-new project
-Hello. I am Serhii QA engeneer. I find new job.
-I tested new softwere and find bug, and deffects
+Hello. I am Serhii QA engeneer. I finding new job.
+I tested new softwere and find bugs, and deffects.
+I whant make app without mistake.
